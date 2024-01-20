@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-batch-proto",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d811e681-477f-465b-9a00-c3f5332e9497",
+		"tenantId": "e6b9f012-705f-45f3-8234-139630072613"
+	}
+}
