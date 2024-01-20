@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "AzureBatch",
 		"typeProperties": {
-			"batchUri": "https://dthackbatch.westcentralus.batch.azure.com",
+			"batchUri": "https://batch4adtbatchproto.japaneast.batch.azure.com",
 			"poolName": "adfpoolwindows",
 			"accountName": "dthackbatch",
 			"linkedServiceName": {
