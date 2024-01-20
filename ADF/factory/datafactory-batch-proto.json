@@ -1,5 +1,11 @@
 {
 	"name": "datafactory-batch-proto",
+	"properties": {
+		"globalConfigurations": {
+			"factoryStagingLSReferenceName": "BatchStorage",
+			"factoryStagingLSType": "LinkedServiceReference"
+		}
+	},
 	"location": "japaneast",
 	"identity": {
 		"type": "SystemAssigned",
