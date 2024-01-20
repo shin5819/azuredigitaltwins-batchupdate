@@ -4,7 +4,7 @@
 		"globalParameters": {
 			"digitaltwinsuri": {
 				"type": "string",
-				"value": "adt-batch-proto.api.jpe.digitaltwins.azure.net"
+				"value": "https://adt-batch-proto.api.jpe.digitaltwins.azure.net"
 			},
 			"blobstorage": {
 				"type": "string",
