@@ -1,6 +1,12 @@
 {
 	"name": "datafactory-batch-proto",
 	"properties": {
+		"globalParameters": {
+			"digitaltwinsuri": {
+				"type": "string",
+				"value": "adt-batch-proto.api.jpe.digitaltwins.azure.net"
+			}
+		},
 		"globalConfigurations": {
 			"factoryStagingLSReferenceName": "BatchStorage",
 			"factoryStagingLSType": "LinkedServiceReference",
