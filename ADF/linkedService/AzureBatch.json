@@ -6,7 +6,7 @@
 		"typeProperties": {
 			"batchUri": "https://batch4adtbatchproto.japaneast.batch.azure.com",
 			"poolName": "adfpoolwindows",
-			"accountName": "dthackbatch",
+			"accountName": "batch4adtbatchproto",
 			"linkedServiceName": {
 				"referenceName": "BatchStorage",
 				"type": "LinkedServiceReference"
