@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "AzureKeyVault",
 		"typeProperties": {
-			"baseUrl": "https://dthackvault.vault.azure.net/"
+			"baseUrl": "https://keyvault4adtbatchproto.vault.azure.net/"
 		}
 	}
 }
